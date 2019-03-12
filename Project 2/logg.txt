@@ -1,0 +1,4 @@
+1. run:
+Alt kjører. 
+Gassen blir aldri ustabil: dT/dm > nab_ad = temperatur gradienten i gassen > adiabatisk utvidelse av parcel.
+Endrer størrelse på parcel: r_p 1e-3 til 1: ingen endring. 1->10: 
